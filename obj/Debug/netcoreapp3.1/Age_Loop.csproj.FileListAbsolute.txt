@@ -1,0 +1,13 @@
+C:\Users\s_mar\Melissa\Age_Loop\bin\Debug\netcoreapp3.1\Age_Loop.exe
+C:\Users\s_mar\Melissa\Age_Loop\bin\Debug\netcoreapp3.1\Age_Loop.deps.json
+C:\Users\s_mar\Melissa\Age_Loop\bin\Debug\netcoreapp3.1\Age_Loop.runtimeconfig.json
+C:\Users\s_mar\Melissa\Age_Loop\bin\Debug\netcoreapp3.1\Age_Loop.runtimeconfig.dev.json
+C:\Users\s_mar\Melissa\Age_Loop\bin\Debug\netcoreapp3.1\Age_Loop.dll
+C:\Users\s_mar\Melissa\Age_Loop\bin\Debug\netcoreapp3.1\Age_Loop.pdb
+C:\Users\s_mar\Melissa\Age_Loop\obj\Debug\netcoreapp3.1\Age_Loop.csprojAssemblyReference.cache
+C:\Users\s_mar\Melissa\Age_Loop\obj\Debug\netcoreapp3.1\Age_Loop.AssemblyInfoInputs.cache
+C:\Users\s_mar\Melissa\Age_Loop\obj\Debug\netcoreapp3.1\Age_Loop.AssemblyInfo.cs
+C:\Users\s_mar\Melissa\Age_Loop\obj\Debug\netcoreapp3.1\Age_Loop.csproj.CoreCompileInputs.cache
+C:\Users\s_mar\Melissa\Age_Loop\obj\Debug\netcoreapp3.1\Age_Loop.dll
+C:\Users\s_mar\Melissa\Age_Loop\obj\Debug\netcoreapp3.1\Age_Loop.pdb
+C:\Users\s_mar\Melissa\Age_Loop\obj\Debug\netcoreapp3.1\Age_Loop.genruntimeconfig.cache
