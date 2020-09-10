@@ -37,23 +37,27 @@ namespace Age_Loop
                 int month2 = birthDate2.Month;
 
                 //create conditions to calculate the age accounting for both the day and month
+                //if the month and day are the same then say happy birthday
                 if (month2 == month1 && day2 == day1)
                 {
                     Console.WriteLine("Happy Birthday " + name + "you are " + age + " years old!");
                 }
+                //if the current month is less than the birthmonth user hasnt had their b-day so age -1 
                 else if (month1 < month2)
                 {
                     age--;
                     Console.WriteLine("Hello " + name + "you are " + age + " years old!");
                 }
+                //if the current month is the same as birth month and the current day is less than birthday then age-1 birthday hasnt passed
                 else if (month1 == month2 && day1 < day2)
                 {
                     age--;
                     Console.WriteLine("Hello " + name + "you are " + age + " years old!");
                 }
+                //if current month is equal to birth month and the current date is greater than birthday then age because the day passed
                 else if (month1 == month2 && day1 > day2)
                 {
-                    Console.WriteLine("Happy Birthday " + name + "you are " + age + " years old!");
+                    Console.WriteLine("Hello " + name + "you are " + age + " years old!");
                 }
                 else
                 {
